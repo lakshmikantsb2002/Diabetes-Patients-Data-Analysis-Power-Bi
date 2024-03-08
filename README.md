@@ -1,5 +1,6 @@
 # Diabetes-Patients-Data-Analysis-Power-Bi
 Diabetes Patients Data Analysis Report using Power BI
+
 I am Interested in Data Analytics field and Probability and Statistics and Maths concepts.
 I have been done this project while i was doing Data Analytics Internship at MeriSKILL Company.
 
@@ -7,19 +8,23 @@ Project Title: Predicting Diabetes in Pima Indian Women
 Tools Used: Power BI
 
 Got an opportunity to dive deep into data analysis with one of the projects at @MeriSKILL, “Predicting Diabetes in Pima Indian Women”, which helped me explore my skills and further my learning. I’m deeply grateful for the opportunity to have a meaningful impact.
+
 Problem Statement:
 The objective of this data analysis project was to diagnostically predict whether a female patient of at least 21 years old and of Pima Indian heritage has diabetes based on certain diagnostic measurements. The primary problem is binary classification, where we aim to determine if a patient has diabetes (Outcome = 1) or not (Outcome = 0) based on the provided medical predictor variables. The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
+
 Key Project Objectives:
 ·      Explore and understand the dataset, its structure, and the distribution of variables.
 ·      Pre-process the data by handling missing values, outliers, and data cleaning.
 ·      Conduct exploratory data analysis (EDA) to gain insights into the dataset.
 ·      Create informative visualizations to aid in data understanding and visualization.
 ·      Create an interactive dashboard in Power BI.
+
 Charts and Graphs requirement:
 1.    Donut chart for distribution of Diabetic and Non-Diabetic patients w.r.t. to different variables.
 2.    KPI card for depicting the current value and status of a metric against a defined target.
 3.    Scatter Plot to show the relationship between Glucose Level and BMI.
 4.    Line Chart to show the trend of number of patients with respect to age group.
+  
 Key Insights:
 1.    Out of 768 female patients, 268 were found to be diabetic, indicating a prevalence of 34.9%.
 2.    The 20-60 age group saw the highest concentration of diabetic patients, accounting for 97% of cases.
